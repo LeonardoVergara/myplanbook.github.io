@@ -1,0 +1,146 @@
+[
+    {
+        "id": 0,
+        "user": "vergaradl",
+        "name": "Sábado 28",
+        "bookings": [
+            {
+                "id": 0,
+                "eventID": 11,
+                "name": "Encuentro Anual de Escritores",
+                "place": "Plaza de la Aduana",
+                "date": "01/12/2022",
+                "option": {
+                    "name": "Opción única",
+                    "description": "Opción estándar para el evento."
+                }
+            },
+            {
+                "id": 1,
+                "eventID": 5,
+                "name": "Lectura Autor José Luis Pinto",
+                "place": "Biblioteca de la Santa Cruz",
+                "date": "01/12/2022",
+                "option": {
+                    "name": "Sala estándar",
+                    "price": 100000,
+                    "description": "Ubicación estándar."
+                }
+            },
+            {
+                "id": 2,
+                "eventID": 11,
+                "name": "Conferencia con María Álvarez",
+                "place": "Plaza de la Aduana",
+                "date": "01/12/2022",
+                "option": {
+                    "name": "Primera fila",
+                    "description": "Ubicación más próxima a la tarima."
+                }
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "user": "caleones",
+        "name": "Planes para Junio",
+        "bookings": [
+            {
+                "id": 0,
+                "eventID": 0,
+                "name": "Reserva de Habitación Hotel",
+                "place": "Gran Hotel Argentino",
+                "date": "01/12/2022",
+                "option": {
+                    "name": "5 estrellas",
+                    "price": 800000,
+                    "description": "Mejor opción 5 estrellas. Beneficios de 4 estrellas más gimnasio incluido."
+                }
+            },
+            {
+                "id": 1,
+                "eventID": 12,
+                "name": "Concierto de Soda Stereo",
+                "place": "Estadio El Monumental",
+                "date": "01/12/2022",
+                "option": {
+                    "name": "Primera fila",
+                    "price": 100000,
+                    "description": "Ubicación más próxima a la tarima."
+                }
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "user": "breynnerh",
+        "name": "Plan de Vacaciones",
+        "bookings": [
+            {
+                "id": 0,
+                "eventID": 11,
+                "name": "Encuentro Anual de Escritores",
+                "place": "Plaza de la Aduana",
+                "date": "01/12/2022",
+                "option": {
+                    "name": "Opción única",
+                    "description": "Opción estándar para el evento."
+                }
+            },
+            {
+                "id": 1,
+                "eventID": 5,
+                "name": "Lectura Autor José Luis Pinto",
+                "place": "Biblioteca de la Santa Cruz",
+                "date": "01/12/2022",
+                "option": {
+                    "name": "Sala estándar",
+                    "price": 100000,
+                    "description": "Ubicación estándar."
+                }
+            },
+            {
+                "id": 2,
+                "eventID": 11,
+                "name": "Conferencia con María Álvarez",
+                "place": "Plaza de la Aduana",
+                "date": "01/12/2022",
+                "option": {
+                    "name": "Primera fila",
+                    "description": "Ubicación más próxima a la tarima."
+                }
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "user": "vergaradl",
+        "name": "Planes para Junio",
+        "bookings": [
+            {
+                "id": 0,
+                "eventID": 0,
+                "name": "Reserva de Habitación Hotel",
+                "place": "Gran Hotel Argentino",
+                "date": "01/12/2022",
+                "option": {
+                    "name": "5 estrellas",
+                    "price": 800000,
+                    "description": "Mejor opción 5 estrellas. Beneficios de 4 estrellas más gimnasio incluido."
+                }
+            },
+            {
+                "id": 1,
+                "eventID": 12,
+                "name": "Concierto de Soda Stereo",
+                "place": "Estadio El Monumental",
+                "date": "01/12/2022",
+                "option": {
+                    "name": "Primera fila",
+                    "price": 100000,
+                    "description": "Ubicación más próxima a la tarima."
+                }
+            }
+        ]
+    }
+]
