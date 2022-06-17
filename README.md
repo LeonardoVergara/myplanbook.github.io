@@ -9,3 +9,6 @@ Web version for My Planbook Prototype (see the [main repository](https://github.
  - Leonardo Vergara - [LeonardoVergara](https://github.com/LeonardoVergara)
  - Breynner Hurtado - [breynner1](https://github.com/breynner1)
  - Carlos Leones - [CatbasterL](https://github.com/CatbasterL)
+
+## Acknowledgements
+ - [GitHub Pages](https://pages.github.com)
