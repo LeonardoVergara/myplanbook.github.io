@@ -1,6 +1,6 @@
 
 # My Planbook Prototype
-Web version for My Planbook Prototype (see the [main repository](https://github.com/LeonardoVergara/my_planbook)).
+Web version for My Planbook Prototype with GitHub Pages (see the [main repository](https://github.com/LeonardoVergara/my_planbook)).
 
 <img src="https://raw.githubusercontent.com/LeonardoVergara/my_planbook/main/.github/images/home.png" width="300">
 
